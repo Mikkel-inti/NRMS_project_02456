@@ -9,6 +9,7 @@ This repository contains two Jupyter Notebook files:
 
 To run them, the folder from Google Drive must be downloaded :
 https://drive.google.com/drive/folders/1lIa75My9wQfdNiKj9llw0A8QIV9SRp1v?usp=sharing 
+
 **The entire EB_project folder must be downloaded if the intention is to run both scripts. 
 Also, note that the weights of the saved model will be overwritten if *nrms_code_original_ipynb* is run first.**
 
