@@ -2,15 +2,17 @@
 *Deep Learning - 02456 - NRMS - GPR 127*
 
 This repository contains two Jupyter Notebook files:
-- The_forward_pass
+- **The_forward_pass**
   - *is solely intended to test the trained model on which the results in the report are based.*   
-- nrms_code_original_ipynb
+- **nrms_code_original_ipynb**
   - *is the full script, where graphs from the training loop can also be viewed.* 
 
-To run them, the folder from Google Drive must be downloaded:
+To run them, the folder from Google Drive must be downloaded :
 https://drive.google.com/drive/folders/1lIa75My9wQfdNiKj9llw0A8QIV9SRp1v?usp=sharing 
+**The entire EB_project folder must be downloaded if the intention is to run both scripts. 
+Also, note that the weights of the saved model will be overwritten if *nrms_code_original_ipynb* is run first.**
 
-In the folder from Google Drive, there are two additional files, as well as the weights that the script *The_forward_pass* uses to perform the forward pass again. This is also illustrated in the figure below:
+In the folder from Google Drive, there are two additional files, as well as the weights and data that the script *The_forward_pass* uses to perform the forward pass again. This is also illustrated in the figure below:
 
 ## Overview of the used files and folders: 
 <br><br>
@@ -39,7 +41,21 @@ In the folder from Google Drive, there are two additional files, as well as the 
   </tr>
 </table>
 
+<b></b>
+<b></b>
 
+# nrms_code_original_ipynb
+
+The diagram below illustrates the workflow of the `nrms_code_original_ipynb` file.
+
+<div style="text-align: center; background-color: white; padding: 20px; border: 1px solid #ddd; border-radius: 5px;">
+  <img src="https://github.com/user-attachments/assets/2c79f4b9-e7ba-41ec-bb9b-90fc1db6f593" alt="nrms_code_original_ipynb Diagram" style="width: 30%; height: auto;"/>
+</div>
+
+
+
+<b></b>
+<b></b>
 
 
 
